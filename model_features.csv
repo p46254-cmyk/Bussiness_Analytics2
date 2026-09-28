@@ -1,6 +1,8 @@
 Feature
 previous_year_cost
 age
+Height
+weight
 bmi
 smoker
 hospital_admissions
